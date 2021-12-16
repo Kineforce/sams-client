@@ -1,2 +1,7 @@
 # sams-client
-The main purpose of this app is to download all of my Google Photos media, because i'm running out of cloud storage ;((((
+
+To use this APP, you can follow this tutorial on this link: https://developers.google.com/photos/library/guides/get-started
+
+After registering your API and getting your credentials file, put it on the root folder with the "credentials.json" name.
+
+That's it, if you have any questions, feel free to contact me 😊
