@@ -1,0 +1,6 @@
+{
+    "require": {
+        "google/auth": "^1.18",
+        "google/photos-library": "^1.7"
+    }
+}

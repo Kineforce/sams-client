@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+footer {
+    position: absolute;
+    color: rgba(0, 0, 0, 0.527);
+    width: 100%;
+    bottom: 0;
+}
+
+.container {
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
